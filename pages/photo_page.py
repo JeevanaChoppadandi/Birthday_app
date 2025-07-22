@@ -20,4 +20,4 @@ st.text(
 "Want to turn this into a stunning visual birthday card or a sparkly animation in your app? I’m totally in — let’s make digital magic 🪄🎈"
 )
 if st.button("🎥 Click for next surprise"):
-    st.switch_page("video_page.py")
+    st.switch_page("video_page")
